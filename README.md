@@ -34,3 +34,22 @@ Moradores da cidade de Várzea da Palma-MG, especialmente os que residem em áre
 
 ## 📄 Estrutura do Projeto
 
+## 📈 Resultados Preliminares
+- Protótipo da interface desenvolvido em Figma.
+- Diagrama de casos de uso que define as principais interações do sistema.
+- Planejamento e levantamento dos requisitos com a comunidade.
+
+## 📚 Referências
+- ASSOCIAÇÃO ÁGUA E SANEAMENTO. Municípios e Saneamento - Várzea da Palma. Disponível em: https://www.aguaesaneamento.org.br/municipios-e-saneamento/mg/varzea-da-palma
+- IBGE – Instituto Brasileiro de Geografia e Estatística. Cidades: Várzea da Palma-MG. Disponível em: https://cidades.ibge.gov.br/
+- PRESSMAN, Roger S. *Engenharia de Software*. 8ª ed. McGraw Hill, 2016.
+- W3Schools. HTML, CSS, JavaScript Tutorials. Disponível em: https://www.w3schools.com/
+
+---
+
+## 👩‍💻 Autora
+**Alessandra Camila Medeiros**  
+Disciplina: Projeto Integrador II  
+Curso: Tecnologia da Informação – 2025.1
+
+---
